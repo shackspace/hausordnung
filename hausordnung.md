@@ -3,14 +3,14 @@ Hausordnung des shack e.V.
 
 Hausrecht
 =========
-Der anwesende Key-Holder übt auf Delegation des Vorstands das Hausrecht aus.
+Der anwesende Key-Holder[^1] übt auf Delegation des Vorstands das Hausrecht aus.
 Den Anweisungen des aktuellen Key-Holders sowie des Vorstands ist Folge zu leisten. Bei Nichtbeachtung kann ein Hausverbot durch den anwesenden Key-Holder ausgeprochen werden.
 
 Jugendschutz
 ============
-Es gilt das Jugendschutzgesetz, welches separat ausliegt. Der Konsum von alkoholischen Getränken und der Aufenthalt von Jugendlichen in den Räumen des Vereins shack e.V. wird durch dieses Gesetz geregelt.   
+Es gilt das Jugendschutzgesetz. Der Konsum von alkoholischen Getränken und der Aufenthalt von Jugendlichen in den Räumen des Vereins shack e.V. wird durch dieses Gesetz geregelt.   
 Darüber hinaus erfordert der Aufenthalt von unter 18jährigen Besuchern die Begleitung eines Erziehungsberechtigten bzw. einer durch die Erziehungsberechtigten ermächtigten Aufsichtsperson.  
-Bei minderjährigen Besuchern ist ein beaufsichtigendere Keymember notwendig. 
+Bei minderjährigen Besuchern ist ein beaufsichtigendere Keymember[^2] notwendig. 
 
 Alkoholkonsum
 ============
@@ -20,8 +20,9 @@ Unabhängig davon gilt §9 JuSchG.
 Rauchen
 =======
 Das Rauchen und der Konsum von Tabakwaren (dazu gehören auch Shisha, E-Zigaretten und ähnliches) sind in den Räumen des Vereins shack e.V. untersagt. 
+
 Gefährliche Stoffe
-============================
+==================
 Der Besitz, Umgang und Herstellung mit bzw. von Substanzen, die nach dem Sprengstoffgesetz beschränkt sind, ist verboten.
 Das Lagern von leicht entflammbaren oder explosionsgefaehrlichen Stoffen in den Raeumen des shack e.V. ist nur in taugliche Behaeltern erlaubt (z.B. Munitionskiste, LiPo-Bags).
 
@@ -41,3 +42,7 @@ Das Arbeiten mit Spannungen, die unter die Kleinspannungsrichtlinie(Richtlinie 2
 Konkret sind dies Wechselspannungen > 50V und Gleichspannungen >75V.
 Ausnahmen können im Einzelfall schriftlich vom Vorstand genehmigt werden.
 Bei Arbeiten unter Kleinspannung ist darauf zu achten, dass je nach den möglichen Gefährdungen geeignete Maßnahmen zu ergreifen sind, die Gefährdungen für sich selbst oder andere verhindern.
+
+[^1]: Keyholder: Mitglieder welches als letztes den Space aufgeschlossen hat. Status bleibt bestehen bis ein anderes Mitglied zum Keyholder wird oder der Space geschlossen wird.
+
+[^2]: Keymember: Mitglied welches durch andere Keymember berechtigt wurde jederzeit alleinigen Zugang zum Space zu bekommen. Üblicherweise gekennzeichnet durch Hinterlegen eines entsprechenden Schlüssels im Portalsystem.
