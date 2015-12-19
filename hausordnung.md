@@ -43,6 +43,10 @@ Konkret sind dies Wechselspannungen > 50V und Gleichspannungen >75V.
 Ausnahmen können im Einzelfall schriftlich vom Vorstand genehmigt werden.
 Bei Arbeiten unter Kleinspannung ist darauf zu achten, dass je nach den möglichen Gefährdungen geeignete Maßnahmen zu ergreifen sind, die Gefährdungen für sich selbst oder andere verhindern.
 
+Sicherheitseinrichtungen
+------------------------
+Das Abbauen und/oder Modifizieren von Sicherheitseinrichtungen(z.B. Rauchmeldern, Feuerloeschern) ist untersagt. Scheint eine Sicherheitseinrichtung nicht funktionsfaehig sein so ist dies umgehend dem Vorstand mitzuteilen.
+
 [^1]: Keyholder: Mitglieder welches als letztes den Space aufgeschlossen hat. Status bleibt bestehen bis ein anderes Mitglied zum Keyholder wird oder der Space geschlossen wird.
 
 [^2]: Keymember: Mitglied welches durch andere Keymember berechtigt wurde jederzeit alleinigen Zugang zum Space zu bekommen. Üblicherweise gekennzeichnet durch Hinterlegen eines entsprechenden Schlüssels im Portalsystem.
