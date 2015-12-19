@@ -45,8 +45,10 @@ Bei Arbeiten unter Kleinspannung ist darauf zu achten, dass je nach den möglich
 
 Sicherheitseinrichtungen
 ------------------------
-Das Abbauen und/oder Modifizieren von Sicherheitseinrichtungen(z.B. Rauchmeldern, Feuerloeschern) ist untersagt. Scheint eine Sicherheitseinrichtung nicht funktionsfaehig sein so ist dies umgehend dem Vorstand mitzuteilen.
+Das Abbauen und/oder Modifizieren von Sicherheitseinrichtungen(z.B. Rauchmeldern, Feuerlöschern) ist untersagt. Scheint eine Sicherheitseinrichtung nicht funktionsfähig sein so ist dies umgehend dem Vorstand[^3] mitzuteilen.
 
 [^1]: Keyholder: Mitglieder welches als letztes den Space aufgeschlossen hat. Status bleibt bestehen bis ein anderes Mitglied zum Keyholder wird oder der Space geschlossen wird.
 
 [^2]: Keymember: Mitglied welches durch andere Keymember berechtigt wurde jederzeit alleinigen Zugang zum Space zu bekommen. Üblicherweise gekennzeichnet durch Hinterlegen eines entsprechenden Schlüssels im Portalsystem.
+
+[^3]: email: vorstand@shackspace.de
