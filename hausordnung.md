@@ -10,7 +10,7 @@ Jugendschutz
 ------------
 Es gilt das Jugendschutzgesetz. Der Konsum von alkoholischen Getränken und der Aufenthalt von Jugendlichen in den Räumen des Vereins shack e.V. wird durch dieses Gesetz geregelt.   
 Darüber hinaus erfordert der Aufenthalt von unter 18jährigen Besuchern die Begleitung eines Erziehungsberechtigten bzw. einer durch die Erziehungsberechtigten ermächtigten Aufsichtsperson.  
-Bei minderjährigen Besuchern ist ein beaufsichtigendere Keymember[^2] notwendig. 
+Bei minderjährigen Besuchern ist ein beaufsichtigendes Keymember[^2] notwendig. 
 
 Alkoholkonsum
 -------------
